@@ -37,4 +37,3 @@ If you use this paper/code in your research, please consider citing us:
 Our project references the codes in the following repos.
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench)
 - [SAM](https://github.com/davda54/sam)
-
